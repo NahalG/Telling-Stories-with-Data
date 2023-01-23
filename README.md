@@ -16,23 +16,31 @@ This repository will consist of the following topics:
 
 
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+# Portfolio: Telling Stories with Data
+This repository contains my portfolio for Telling stories with data, a course I have taken at Carnegie Mellon University while pursuing a Masters in Public Policy and Science. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Nahal Abdul Ghaffar (Pronouns are she/her). I am a second year Masters of Science in Public Policy and Management student at Heinz College (Carnegie Mellon University). I am from Karachi, Pakistan. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Data visualisation is prevalent in all faucets of life. Today, as we are inundated with data, it is integral to depict it visually to narrate the story and manuever our target audience's attention towards the story we wish to tell. As I navigate through this course, I hope to: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. learn the art of using colors and the right tools to depict data which would create the biggest impact on the viewer
+2. elve into the nuances of how an individual goes about building a narrative/story around a given data set and how much of information should be disbursed.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I feel working through the different assignments and projects will give me a first-hand experience on these themes. 
 
 # Portfolio
+This repository will consist of the following topics: 
+## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
+## Assignment 3&4: [Critique by Design](critique-by-design)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Final project
+Here it might be helpful to include a high-level description of your final project. 
+[Part I](final-project-part-one)
+[Part II](final-project-part-two)
+Part III(final-project-part-three)
+
