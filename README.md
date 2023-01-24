@@ -14,7 +14,8 @@ Working through the different assignments and projects, I will be able to explor
 
 # Portfolio
 This repository will consist of the following topics: 
-## [Visualizing Government Debt](https://github.com/NahalG/Telling-Stories-with-Data/blob/a0dafd33a720af4e6406149d0957a1a4a183fc4c/Visualising%20Government%20Debt)
+
+## Visualizing Government Debt
 
 ## Critique by Design
 
