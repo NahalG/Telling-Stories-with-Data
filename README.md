@@ -14,8 +14,12 @@ I feel working through the different assignments and projects will give me a fir
 
 # Portfolio
 This repository will consist of the following topics: 
-## Visualizing Government Debt
+## [Visualizing Government Debt](https://github.com/NahalG/Telling-Stories-with-Data/blob/a0dafd33a720af4e6406149d0957a1a4a183fc4c/Visualising%20Government%20Debt)
 
-## [Critique by Design]((https://github.com/NahalG/Telling-Stories-with-Data/blob/d2767902170cce27eb4403217f1d417124f4e4d0/Critique%20By%20Design))
+## [Critique by Design](https://github.com/NahalG/Telling-Stories-with-Data/blob/d2767902170cce27eb4403217f1d417124f4e4d0/Critique%20By%20Design)
 
-## [Final project 1](https://github.com/NahalG/Telling-Stories-with-Data/blob/d2767902170cce27eb4403217f1d417124f4e4d0/Final%20Project%20Part%201))
+## [Final project 1](https://github.com/NahalG/Telling-Stories-with-Data/blob/d2767902170cce27eb4403217f1d417124f4e4d0/Final%20Project%20Part%201)
+
+## [Final Project 2](https://github.com/NahalG/Telling-Stories-with-Data/blob/a0dafd33a720af4e6406149d0957a1a4a183fc4c/Final%20Project%20Part%202)
+
+## [Final Project 3](https://github.com/NahalG/Telling-Stories-with-Data/blob/a0dafd33a720af4e6406149d0957a1a4a183fc4c/Final%20Project%20Part%203)
