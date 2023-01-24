@@ -10,7 +10,7 @@ Data visualisation is prevalent in all faucets of life. Today, as we are inundat
 1. Learn the art of using colors and the right tools to depict data which would create the biggest impact on the viewer.
 2. Delve into the nuances of how an individual goes about building a narrative/story around a given data-set and how much of information should be disbursed.
 
-Working through the different assignments and projects, I will be able to explore these themes and refine my visuali
+Working on different assignments and projects, I will be able to explore these themes and refine my visualization skills.
 
 # Portfolio
 This repository will consist of the following topics: 
