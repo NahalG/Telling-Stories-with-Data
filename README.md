@@ -16,6 +16,6 @@ I feel working through the different assignments and projects will give me a fir
 This repository will consist of the following topics: 
 ## Visualizing Government Debt
 
-## [Critique by Design] (https://github.com/NahalG/Telling-Stories-with-Data/blob/58ecdef62f8a22aaaa03907541bdf7a10a3054a5/Critique%20By%20Design)
+## [[Critique by Design]]([url](https://github.com/NahalG/Telling-Stories-with-Data/blob/58ecdef62f8a22aaaa03907541bdf7a10a3054a5/Critique%20By%20Design)) 
 
 ## Final project
