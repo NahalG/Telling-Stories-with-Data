@@ -2,7 +2,7 @@
 This repository contains a portfolio of stories that matter to me. I have built this repository for a course 'Telling stories with data', which I have taken at Carnegie Mellon University while pursuing a Masters degree.
 
 # About me
-Hi! My name is Nahal Abdul Ghaffar (Pronouns are she/her). I am a second year Masters of Science in Public Policy and Management student at Heinz College (Carnegie Mellon University). I am from Karachi, Pakistan. I have an undergraduate degree in Business Administration with a majors in Marketing and minor in Human Resources from the Institute of Business Administration. Prior to Heinz College, I have a work experience of four and a half years and have worked in the Development Sector and the Fast Moving Consumer Goods industry.
+Hi! My name is Nahal Abdul Ghaffar. I am a second year Masters of Science in Public Policy and Management student at Heinz College (Carnegie Mellon University). I am from Karachi, Pakistan. I have an undergraduate degree in Business Administration with a majors in Marketing and minor in Human Resources from the Institute of Business Administration. Prior to Heinz College, I have a work experience of four and a half years and have worked in the Development Sector and the Fast Moving Consumer Goods industry.
 
 # What I hope to learn
 Data visualisation is prevalent in all facets of life. Today, as we are inundated with data, it is integral to depict it visually to narrate the story and manuever our target audience's attention towards the story we wish to tell. As I navigate through this course, I hope to: 
