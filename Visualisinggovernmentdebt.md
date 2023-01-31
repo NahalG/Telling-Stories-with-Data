@@ -7,8 +7,9 @@ Government Debt to GDP ratio (1995 - 2019)
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 
 
-Government Debt to GDP ratio (1995 - 2019)
-
+Line Graph
 The chart below shows the Government Debt to GDP ratio across different countries. I have used multiple line graphs to showcase these trends. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12585861"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
