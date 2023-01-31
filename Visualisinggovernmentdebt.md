@@ -1,5 +1,7 @@
 # Visualising Government Debt
 
+This webpage will showcase governments debt to GDP ratios from 1995 to 2021 across countries using three different visualization techniques, namely bar chart, line graph and beeswarm (scatter). You will be able to narrate different stories from the same dataset.
+
 ## Bar Chart
 The bar chart depicts the Government's Debt to GDP ratio for the year 2021. 
 
@@ -21,4 +23,4 @@ The Beeswarm plot below visualizes the government’s Debt to GDP ratio from 199
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12597950"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Conclusion 
-As you scrolled down my page, you must have seen the same dataset visualized through different charts. The bar chart indicated the Debt to GDP ratio for the year 2021 only, across different countries and was unable to showcase the trend overtime. However, it clear showcased the lowest to highest debt to GDP ratio making it easy for the reader to trace the trend in a given year. The second chart, Line graph, visualized the debt to GDP ratio for each country through individual graphs. Though it was able to showcase the trends from 1995 to 2021 for every country, the comparison between countries was difficult. Finally, the Beeswarm chart showed the debt to GDP ratio from 1995 to 2019 for several countries on the same graph which allowed easy comparison between countries overtime.
+As you scrolled down my page, you must have seen the same dataset visualized through different charts. The bar chart indicated the Debt to GDP ratio for the year 2021 only, across different countries and was unable to showcase the trend overtime. However, it clear showcased the lowest to highest debt to GDP ratio making it easy for the reader to trace the trend in a given year. The second chart, Line graph, visualized the debt to GDP ratio for each country through individual graphs. Though it was able to showcase the trends from 1995 to 2021 for every country, the comparison between countries was difficult. Finally, the Beeswarm chart showed the debt to GDP ratio from 1995 to 2019 for several countries on the same graph which allowed easy comparison between countries overtime. I feel that the beeswarm chart is able to communicate details without information clutter.
