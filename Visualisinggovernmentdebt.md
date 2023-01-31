@@ -1,6 +1,6 @@
 # Visualising Government Debt
 
-This webpage will showcase governments debt to GDP ratios from 1995 to 2021 across countries using three different visualization techniques, namely bar chart, line graph and beeswarm (scatter). You will be able to narrate different stories from the same dataset.
+This webpage will showcase governments debt to GDP ratios from 1995 to 2021 across countries using three different visualization techniques, namely bar chart, line graph and beeswarm (scatter). All data has been extracted from the [OECD website](https://data.oecd.org/gga/general-government-debt.htm). You will be able to review different stories from the same dataset.
 
 ## Bar Chart
 The bar chart depicts the Government's Debt to GDP ratio for the year 2021. 
