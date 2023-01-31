@@ -13,3 +13,6 @@ The chart below shows the Government Debt to GDP ratio across different countrie
 <div class="flourish-embed flourish-chart" data-src="visualisation/12585861"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+Scatter
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12597950"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
