@@ -21,7 +21,7 @@ For this assignment, make sure you set up and link to a new page. This page is l
 
 ## [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html)
 
-## Critique by Design
+## Critique by Design 
 
 ## Final project 1
 
