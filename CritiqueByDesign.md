@@ -7,9 +7,7 @@ Coming from a developing country which lacks the basic infrastructure, funding, 
 ## Maternal Mortality Ratio - A WHO Report Data Visualization 
 The visualization below was taken from [WHO Health Statistics 2022 Report](https://www.who.int/publications/i/item/9789240051157) (page 22) and the data was scraped from the corresponding statistics guide – [Trends in Maternal Mortality](https://www.unfpa.org/featured-publication/trends-maternal-mortality-2000-2017) (Annex 7, page 79). 
 
-
 ![WHO Data](WHO Data.png)
-
 
 The target audience for this data visualization is internal WHO stakeholders, policymakers,government agencies, non-governmental organizations, members of public interested and working in the field of Health.
 
@@ -18,7 +16,7 @@ This visualization showcases the maternal mortality ratios for the year 2000 and
 Interpreting this data visualization in isolation of the qualitative data outlined in the report, one might ponder as to what story does this visualization really aims at narrating. The chart lacks a crisp title which indicates the purpose of the graph. However, after perusing through it closely, the viewer is able to identify that it showcases a decline in maternal mortality ratio in WHO regions and the world. The chart appears heavy due to excessive gridlines, curved bar lines and inconsistent aesthetics (shape of bars and labeling). 
 
 
-## Brainstorming & Re-iterating Data Visualisation
+## Brainstorming & Ideating Data Visualization
 
 After interpreting the chart, I placed myself in the shoes of the target audience and tried to recreate a visualization which would easily communicate the message without the need for supplement qualitative information. Therefore, I decided to recreate it the form of a line graph. 
 
@@ -104,7 +102,8 @@ What does the y-axis label mean, why is Africa’s data skewed, and is there any
 4.	What new inspirations arose?
 This could be maybe shown on a map and title should narrate the story. 
 
-## Maternal Mortality Ratio - Data Visualization Re-designed
+
+## Maternal Mortality Ratio - A New Perspective 
 
 Having gone through the whole process of analyzing and ideating the data visualization, I reworked the original chart design. I extracted the data from the statistical report and recreated it in excel as it was a PDF file. Given it was open-source data, I used flourish to build the new visualization.  
 
