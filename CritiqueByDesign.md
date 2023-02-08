@@ -37,7 +37,7 @@ After sketching the visualization, I reached out to two potential users of this 
 7.	What would you change or do differently?
 8.	Do you have any other suggestions?
 
-Summary of Critique: 
+**Summary of Critique:** 
 The chart type is easy to interpret and analyse and allows the reader to understand the trend. However, the chart title needs to be changed as it is very report oriented and does not narrate or emphasize the storyline. The use of color needs to be controlled to avoid distraction and the rainbow effect. There was confused about the Y-axis label- this was something I didnot see coming therefore it was a good insight. 
 
 ### Raw Interview Data:
