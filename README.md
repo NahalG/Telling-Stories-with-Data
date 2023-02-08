@@ -17,7 +17,7 @@ This repository will consist of the following topics:
 
 ## [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html)
 
-## Critique by Design 
+## [Critique by Design](https://nahalg.github.io/Telling-Stories-with-Data/CritiqueByDesign.html)
 
 ## Final project 1
 
