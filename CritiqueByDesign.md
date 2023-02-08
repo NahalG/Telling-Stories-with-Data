@@ -9,10 +9,12 @@ The visualization below was taken from [WHO Health Statistics 2022 Report](https
 
 ![WHO Data](WHO Data.png)
 
+This visualization showcases the maternal mortality ratios for the year 2000 and 2017. I feel that the colors are well controlled in this chart by using two colors to distinguish between years alongside a legend to indicate the correlation between the color scheme and year. Each bar in the graph clearly states the maternal mortality ratio which made it easy to read the chart. The source of data is also mentioned which signals that the data is authentic. Another positive point about this chart is that all countries are placed next to one another alphabetically and horizontally which makes it easy to compare between them.
 
-Interpreting this data visualization in isolation of the qualitative data outlined in the report, one might ponder as to what story does this visualization really aims at narrating. The chart lacks a crisp title which indicate what the purpose of the graph is. However, after perusing through it closely, the viewer is able to identify that it showcases a decline in maternal mortality ratio in WHO regions and the world. The chart appears heavy due to excessive gridlines, curved bar charts and inconsistent aesthetics (shape of bars and labeling). 
+Interpreting this data visualization in isolation of the qualitative data outlined in the report, one might ponder as to what story does this visualization really aims at narrating. The chart lacks a crisp title which indicates the purpose of the graph. However, after perusing through it closely, the viewer is able to identify that it showcases a decline in maternal mortality ratio in WHO regions and the world. The chart appears heavy due to excessive gridlines, curved bar lines and inconsistent aesthetics (shape of bars and labeling). 
 
 
+## Brainstorming & Re-iterating Data Visualisations
  
 <img src="WHO Sketch.jpeg" width="800"/>
 
