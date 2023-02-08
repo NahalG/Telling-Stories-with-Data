@@ -3,5 +3,5 @@
 ![WHO Data](WHO Data.png)
 
 
-![WHO Sketch](WHO Sketch.heic)
+![WHO Sketch](WHO Sketch.jpeg)
  
