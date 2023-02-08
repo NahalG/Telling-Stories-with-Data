@@ -7,7 +7,9 @@ Coming from a developing country which lacks the basic infrastructure, funding, 
 ## Maternal Mortality Ratio - A WHO Report Data Visualization 
 The visualization below was taken from [WHO Health Statistics 2022 Report](https://www.who.int/publications/i/item/9789240051157) (page 22) and the data was scraped from the corresponding statistics guide – [Trends in Maternal Mortality](https://www.unfpa.org/featured-publication/trends-maternal-mortality-2000-2017) (Annex 7, page 79). 
 
+
 ![WHO Data](WHO Data.png)
+
 
 The target audience for this data visualization is internal WHO stakeholders, policymakers,government agencies, non-governmental organizations, members of public interested and working in the field of Health.
 
@@ -19,7 +21,7 @@ Interpreting this data visualization in isolation of the qualitative data outlin
 ## Brainstorming & Re-iterating Data Visualisation
 
 After interpreting the chart, I placed myself in the shoes of the target audience and tried to recreate a visualization which would easily communicate the message without the need for supplement qualitative information. Therefore, I decided to recreate it the form of a line graph. 
- 
+
 <img src="WHO Sketch.jpeg" width="800"/>
 
 I sketched the above graph using the data to showcase the trends over the span of seventeen years. The ideology behind using a line graph was to trace the trend over a period of time rather than at merely just two instances (i.e. in 2000 and 2017). This graph makes it easy for the viewer to decipher the trend at the first glance and understand that maternal mortality is declining. Given I was sketching, I used different colors for every country to distinguish between countries. I added a title to specify what the chart is trying to convey. 
@@ -104,7 +106,10 @@ This could be maybe shown on a map and title should narrate the story.
 
 ## Maternal Mortality Ratio - Data Visualization Re-designed
 
-
+Having gone through the whole process of analyzing and ideating the data visualization, I reworked the original chart design. I extracted the data from the statistical report and recreated it in excel as it was a PDF file. Given it was open-source data, I used flourish to build the new visualization.  
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680538"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+The new design aims at communicating a decline in the maternal mortality ratio in the WHO region alongside a comparison with the world. The interactive feature allows the user to select region(s) of their choice to compare and contrast or just to view a given region in isolation. Each dot on the graph give information about the ratio in a given year. I have added the logo for WHO to give a quick insight about the data set and signal that the data is authentic. A linked source has been added in the footnotes. I have used a blue color as it signals positivity and the color shade was picked from coolor.co. 
+
+In order to make the chart user-friendly, I incorporated the feedback from potential users into my design. The chart title was renamed to ‘Decline in Maternal Mortality in WHO Regions (2000 – 2017), minimized the colors and limited them to two shades, added a footnote to give clarity about what the Y-axis stands for, and changed the scale for the X-axis.
