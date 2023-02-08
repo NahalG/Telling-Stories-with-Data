@@ -5,7 +5,7 @@ Coming from a developing country which lacks the basic infrastructure, funding, 
 
 
 ## Maternal Mortality Ratio - A WHO Report Data Visualization 
-This visualization was taken from WHO Health Statistics 2022 Report (page 22) and the data was scraped from the corresponding statistics guide – [Trends in Maternal Mortality](https://www.unfpa.org/featured-publication/trends-maternal-mortality-2000-2017). 
+This visualization was taken from [WHO Health Statistics 2022 Report](https://www.who.int/publications/i/item/9789240051157) (page 22) and the data was scraped from the corresponding statistics guide – [Trends in Maternal Mortality](https://www.unfpa.org/featured-publication/trends-maternal-mortality-2000-2017) (Annex 7, page 79). 
 
 ![WHO Data](WHO Data.png)
 
