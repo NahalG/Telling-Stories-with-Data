@@ -18,9 +18,13 @@ Interpreting this data visualization in isolation of the qualitative data outlin
 
 ## Brainstorming & Re-iterating Data Visualisation
 
-
+After interpreting the chart, I placed myself in the shoes of the target audience and tried to recreate a visualization which would easily communicate the message without the need for supplement qualitative information. Therefore, I decided to recreate it the form of a line graph. 
  
 <img src="WHO Sketch.jpeg" width="800"/>
+
+I sketched the above graph using the data to showcase the trends over the span of seventeen years. The ideology behind using a line graph was to trace the trend over a period of time rather than at merely just two instances (i.e. in 2000 and 2017). This graph makes it easy for the viewer to decipher the trend at the first glance and understand that maternal mortality is declining. Given I was sketching, I used different colors for every country to distinguish between countries. I added a title to specify what the chart showcases. 
+
+### User Research: Bringing in the external voice
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680538"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
