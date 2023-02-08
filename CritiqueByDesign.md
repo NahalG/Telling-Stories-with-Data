@@ -24,6 +24,8 @@ After interpreting the chart, I placed myself in the shoes of the target audienc
 
 I sketched the above graph using the data to showcase the trends over the span of seventeen years. The ideology behind using a line graph was to trace the trend over a period of time rather than at merely just two instances (i.e. in 2000 and 2017). This graph makes it easy for the viewer to decipher the trend at the first glance and understand that maternal mortality is declining. Given I was sketching, I used different colors for every country to distinguish between countries. I added a title to specify what the chart is trying to convey. 
 
+### User Research: Bringing in the external voice
+
 After sketching the visualization, I reached out to two potential users of this data and requested them to critique the data visualization. The interview questions were: 
 
 1.	What is this chart about?
@@ -40,11 +42,11 @@ The chart type is easy to interpret and analyse and allows the reader to underst
 
 
 ### Raw Interview Data:
+```
 Interview #1: 
-
-Name: Student A
-
+Name: Student A,
 Age: Late 20’s 
+```
 
 1.	What is this chart about?
 It’s about the maternal mortality rates across the different regions of the world.
@@ -63,9 +65,11 @@ Maybe the colors, less of a rainbow, or maybe the labels, especially the labels 
 8.	Do you have any other suggestions?
 Maybe to highlight only the regions with the worst trends (or maybe even only one) and compare it to the global average.
 
+```
 Interview #2: 
 Name: Student K
 Age: Mid 20’s 
+```
 
 1.	What is this chart about?
 It shows the maternal mortality for WHO regions.
@@ -85,8 +89,17 @@ I would draw it digitally and use less colors.
 8.	Do you have any other suggestions?
 Be a little more specific with the title. 
 
+I also carried out a third critique in a focus group setting which consisted of three students enrolled in a master’s program. The critique was as follows: 
 
-### User Research: Bringing in the external voice
+1.	What worked?
+The use of line chart to show data, Global has been included as a benchmark measure, the highest decline can easily be spotted, and the labels/ticks are placed accurately. 
+2.	What didn’t work?
+The scale for the year jumps from 5 year gap to a 2 year gap towards the end, title is report oriented and needs to be a little descriptive, rainbow colors are distracting, global line should be a different color. 
+3.	What questions came up?
+What does the y-axis label mean, why is Africa’s data skewed, and is there anything you are trying to highlight or emphasize through this chart.
+4.	What new inspirations arose?
+This could be maybe shown on a map and title should narrate the story. 
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680538"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
