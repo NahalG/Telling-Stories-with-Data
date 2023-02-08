@@ -2,7 +2,5 @@
 
 ![WHO Data](WHO Data.png)
 
-
-![WHO Sketch](WHO Sketch.jpeg)
  
-<img src="WHO Sketch.jpeg" width="700"/>
+<img src="WHO Sketch.jpeg" width="800"/>
