@@ -10,6 +10,8 @@ The visualization below was taken from [WHO Health Statistics 2022 Report](https
 ![WHO Data](WHO Data.png)
 
 
+Interpreting this data visualization in isolation of the qualitative data outlined in the report, one might ponder as to what story does this visualization really aims at narrating. The chart lacks a crisp title which indicate what the purpose of the graph is. However, after perusing through it closely, the viewer is able to identify that it showcases a decline in maternal mortality ratio in WHO regions and the world. The chart appears heavy due to excessive gridlines, curved bar charts and inconsistent aesthetics (shape of bars and labeling). 
+
 
  
 <img src="WHO Sketch.jpeg" width="800"/>
