@@ -38,8 +38,7 @@ After sketching the visualization, I reached out to two potential users of this 
 8.	Do you have any other suggestions?
 
 Summary of Critique: 
-The chart type is easy to interpret and analyse and allows the reader to understand the trend. However, the chart title needs to be changed and the use of color needs to be controlled to avoid a rainbow spectrum. One of the interviewees was confused by the Y-axis label- this was something I didnot see coming therefore it was a good insight. 
-
+The chart type is easy to interpret and analyse and allows the reader to understand the trend. However, the chart title needs to be changed as it is very report oriented and does not narrate or emphasize the storyline. The use of color needs to be controlled to avoid distraction and the rainbow effect. There was confused about the Y-axis label- this was something I didnot see coming therefore it was a good insight. 
 
 ### Raw Interview Data:
 ```
@@ -89,7 +88,10 @@ I would draw it digitally and use less colors.
 8.	Do you have any other suggestions?
 Be a little more specific with the title. 
 
-I also carried out a third critique in a focus group setting which consisted of three students enrolled in a master’s program. The critique was as follows: 
+```
+I also carried out a third critique in a focus group setting which consisted of three students enrolled in a master’s program.
+```
+The critique was as follows: 
 
 1.	What worked?
 The use of line chart to show data, Global has been included as a benchmark measure, the highest decline can easily be spotted, and the labels/ticks are placed accurately. 
