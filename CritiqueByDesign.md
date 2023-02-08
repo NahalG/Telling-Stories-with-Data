@@ -41,7 +41,9 @@ The chart type is easy to interpret and analyse and allows the reader to underst
 
 ### Raw Interview Data:
 Interview #1: 
+
 Name: Student A
+
 Age: Late 20’s 
 
 1.	What is this chart about?
