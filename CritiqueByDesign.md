@@ -1,4 +1,4 @@
-# Critque By Design 
+# Critque By Design
 
 ## Introduction
 Coming from a developing country which lacks the basic infrastructure, funding, and skillset to provide good quality healthcare to masses especially women, I am always inquisitive to know how successful the initiatives by World Health Organization (WHO) are when it come women’s health. Therefore, I decided to review a data visualization chart for Maternal Mortality Ratio. 
@@ -101,6 +101,9 @@ The scale for the year jumps from 5 year gap to a 2 year gap towards the end, ti
 What does the y-axis label mean, why is Africa’s data skewed, and is there anything you are trying to highlight or emphasize through this chart.
 4.	What new inspirations arose?
 This could be maybe shown on a map and title should narrate the story. 
+
+## Maternal Mortality Ratio - Data Visualization Re-designed
+
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680538"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
