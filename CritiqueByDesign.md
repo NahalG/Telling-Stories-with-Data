@@ -1,4 +1,4 @@
-# Critque By Design
+# Critique By Design
 
 ## Introduction
 Coming from a developing country which lacks the basic infrastructure, funding, and skillset to provide good quality healthcare to masses especially women, I am always inquisitive to know how successful the initiatives by World Health Organization (WHO) are when it come women’s health. Therefore, I decided to review a data visualization chart for Maternal Mortality Ratio. 
