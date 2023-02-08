@@ -5,4 +5,4 @@
 
 ![WHO Sketch](WHO Sketch.jpeg)
  
-<img src="WHO Sketch.jpeg" width="300"/>
+<img src="WHO Sketch.jpeg" width="500"/>
