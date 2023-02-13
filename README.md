@@ -19,7 +19,7 @@ This repository will consist of the following topics:
 
 ## [Critique by Design](https://nahalg.github.io/Telling-Stories-with-Data/CritiqueByDesign.html)
 
-## Final project 1
+## [Final project 1](https://nahalg.github.io/Telling-Stories-with-Data/FinalProjectpart1.html)
 
 ## Final Project 2
 
