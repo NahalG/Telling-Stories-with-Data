@@ -1,4 +1,4 @@
-| [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [visualizing debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [critique by design](CritiqueByDesign) | [final project I](FinalProjectpart1)| 
+| [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1)| 
 
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
