@@ -22,7 +22,7 @@ As I work on this piece, I want to
 
 The below image showcases the storyline for the pitch:
 
-![Storyline](Storyline.jpeg)
+![Newsketch](Newsketch.jpeg)
 
 
 ## Initial sketches
@@ -49,4 +49,4 @@ Some of the data sources are:
 
 ## The Method & Medium 
 
-I will be using Shorthand, flourish, and Tableau to develop the narrative which can easily be presented to audiences whilst maintaining the interactive feature of the graphs/charts. I plan to seek the help of ChatGPT and Dall-E along to develop content (more so will try to screen-record the use of these software and embed them in the pitch to reiterate the ideology). I will also make use of images from google to enhance the aesthetics of the presentation. 
+I will be using Shorthand, flourish, and Tableau to develop the narrative which can easily be presented to audiences whilst maintaining the interactive feature of the graphs/charts. I plan to seek the help of ChatGPT and Dall-E to develop content (more so will try to screen-record the use of these software and embed them in the pitch to reiterate the point). I will also use images from google to enhance the aesthetics of the presentation. 
