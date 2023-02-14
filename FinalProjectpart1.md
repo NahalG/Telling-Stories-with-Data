@@ -38,7 +38,7 @@ I also plan to use a map to highlight the regions where ChatGPT is not available
 
 ## The data
 
-Given this is an upcoming topic, I have not been able to find compiled data sets yet have found websites and articles which have the data stored in the storyline. I have scraped off data from different online resources and built in my database on excel. The excel document has been stored in Github’s repository and is ![linked here](https://github.com/NahalG/Telling-Stories-with-Data/blob/main/ChatGPT%20Data.xlsx).
+Given this is an upcoming topic, I have not been able to find compiled data sets yet have found websites and articles which have the data stored in the storyline. I have scraped off data from different online resources and built in my database on excel. The excel document has been stored in Github’s repository and is ![linked here](https://github.com/NahalG/Telling-Stories-with-Data/pull/1#issue-1583584418).
 
 The data will be used to develop graphs, charts, timelines and bolster the storyline I am trying to pitch to the audience. 
 
