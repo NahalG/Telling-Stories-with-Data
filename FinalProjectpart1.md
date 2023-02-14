@@ -25,10 +25,12 @@ The below image showcase the storyline for the pitch:
 
 ## Initial sketches
 
-![Sketch1](Sketch1.png)
+The below images showcase rudimentary sketches for the storyline. 
+
+![Sketch1](Sketch1.jpeg)
 
 
-![Sketch2](Sketch2.png)
+![Sketch2](Sketch2.jpeg)
 
 ## The data
 
