@@ -24,16 +24,10 @@ The below image showcase the storyline for the pitch:
 
 ![Storyline](Storyline.jpeg)
 
-<img src="Storyline.jpeg" width="500"/>
 
 ## Initial sketches
 
 The below images showcase rudimentary sketches for the storyline. 
-
-![Sketch1](Sketch1.jpeg)
-
-
-![Sketch2](Sketch2.jpeg)
 
 <img src="Sketch1.jpeg" width="600"/>
 
