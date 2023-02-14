@@ -4,9 +4,9 @@
 
 ## Outline
 
-The recent innovation in AI – ChatGPT, has shook the world. The capabilities of this AI Chatbot have transformed how we brainstorm ideas and the speed at which are able to create content.  While at one end of the spectrum these breakthroughs are taking place, the other end of the spectrum witnesses massive layoffs. That being said, as final year masters’ students, in-search of jobs amidst a recession, we grapple with the thought as to whether the workplace will require our services or will we be outdone by AI and robots. 
+The recent innovation in AI – ChatGPT, has shook the world. The capabilities of this AI Chatbot has transformed how we brainstorm ideas and the speed at which are able to create content.  While at one end of the spectrum these breakthroughs are taking place, on the other end of the spectrum there are massive layoffs in the Tech sector. That being said, as final year masters’ students, in-search of jobs amidst a recession, we grapple with the thought that whether the workplace will require our services or will we be outdone by AI and robots. 
 
-Given my interest in the Tech sector I have been really interested in how ChatGPT came into being, who are the masterminds behind it, what are its capabilities and how is it likely going to shape the future of the next generation especially in the education question.
+Given my interest in the Tech sector, I have been really interested in how ChatGPT came into being, who are the masterminds behind it, what are its capabilities and how is it likely going to shape the future of the next generation especially in the education sector.
 
 As I work on this piece, I want to 
 
