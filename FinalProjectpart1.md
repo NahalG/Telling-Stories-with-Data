@@ -44,8 +44,10 @@ The data will be used to develop graphs, charts, timelines and bolster the story
 
 Some of the data sources are: 
 1.[CNBC](https://www.cnbc.com/2023/01/18/tech-layoffs-microsoft-amazon-meta-others-have-cut-more-than-60000.html)
+
 2.[Demand Sage]( https://www.demandsage.com/chatgpt-statistics/)
-3.[Business if Apps]( https://www.businessofapps.com/data/chatgpt-statistics/)
+
+3.[Business of Apps]( https://www.businessofapps.com/data/chatgpt-statistics/)
 
 ## The Method & Medium 
 
