@@ -43,6 +43,7 @@ Given this is an upcoming topic, I have not been able to find compiled data sets
 The data will be used to develop graphs, charts, timelines and bolster the storyline I am trying to pitch to the audience. 
 
 Some of the data sources are: 
+
 1.[CNBC](https://www.cnbc.com/2023/01/18/tech-layoffs-microsoft-amazon-meta-others-have-cut-more-than-60000.html)
 
 2.[Demand Sage]( https://www.demandsage.com/chatgpt-statistics/)
