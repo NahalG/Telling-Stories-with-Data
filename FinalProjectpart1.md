@@ -1,10 +1,8 @@
 | [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1)| 
 
-# Outline
+# Topic: The Human Race Against ChatGPT
 
-
-Topic: The Human Race Against ChatGPT
-
+## Outline
 
 The recent innovation in AI – ChatGPT, has shook the world. The capabilities of this AI Chatbot have transformed how we brainstorm ideas and the speed at which are able to create content.  While at one end of the spectrum these breakthroughs are taking place, the other end of the spectrum witnesses massive layoffs. That being said, as final year masters’ students, in-search of jobs amidst a recession, we grapple with the thought as to whether the workplace will require our services or will we be outdone by AI and robots. 
 
@@ -27,7 +25,7 @@ As I work on this piece, I want to
 
 Text here...
 
-# The data
+## The data
 
 Given this is an upcoming topic, I have not been able to find compiled data sets yet have found websites and articles which have the data stored in the storyline. I have scraped off data from different online resources and built in my database on excel. The excel document has been stored in Github’s repository and is linked here.
 
@@ -38,4 +36,6 @@ Some of the data sources are:
 2.[Demand Sage]( https://www.demandsage.com/chatgpt-statistics/)
 3.[Business if Apps]( https://www.businessofapps.com/data/chatgpt-statistics/)
 
-# The Method & Medium 
+## The Method & Medium 
+
+I will be using Shorthand, flourish, and Tableau to develop the narrative which can easily be presented to audiences whilst maintaining the interactive feature of the graphs/charts. I plan to seek the help of ChatGPT and Dall-E along to develop content (more so will try to screen-record the use of these software and embed them in the pitch to reiterate the ideology). I will also make use of images from google to enhance the aesthetics of the presentation. 
