@@ -21,6 +21,7 @@ As I work on this piece, I want to
 -	Call to action: Do we adapt our ways of life to the use of ChatGPT or wage a war against it?
 
 The below image showcase the storyline for the pitch:
+
 ![Storyline](Storyline.jpeg)
 
 ## Initial sketches
@@ -31,6 +32,10 @@ The below images showcase rudimentary sketches for the storyline.
 
 
 ![Sketch2](Sketch2.jpeg)
+
+<img src="Sketch1.jpeg" width="800"/>
+
+<img src="Sketch2.jpeg" width="800"/>
 
 ## The data
 
