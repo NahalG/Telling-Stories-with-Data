@@ -32,7 +32,7 @@ The below image showcase the storyline for the pitch:
 
 ## The data
 
-Given this is an upcoming topic, I have not been able to find compiled data sets yet have found websites and articles which have the data stored in the storyline. I have scraped off data from different online resources and built in my database on excel. The excel document has been stored in Github’s repository and is linked here.
+Given this is an upcoming topic, I have not been able to find compiled data sets yet have found websites and articles which have the data stored in the storyline. I have scraped off data from different online resources and built in my database on excel. The excel document has been stored in Github’s repository and is [linked here](https://www.businessofapps.com/data/chatgpt-statistics/).
 
 The data will be used to develop graphs, charts, timelines and bolster the storyline I am trying to pitch to the audience. 
 
