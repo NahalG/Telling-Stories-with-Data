@@ -20,18 +20,21 @@ As I work on this piece, I want to
 -	Bring in the consumers voice through primary research
 -	Call to action: Do we adapt our ways of life to the use of ChatGPT or wage a war against it?
 
-The below image showcase the storyline for the pitch:
+The below image showcases the storyline for the pitch:
 
 ![Storyline](Storyline.jpeg)
 
 
 ## Initial sketches
 
-The below images showcase rudimentary sketches for the storyline. 
+The below images are rudimentary sketches for the storyline. 
 
 <img src="Sketch1.jpeg" width="600"/>
 
 <img src="Sketch2.jpeg" width="600"/>
+
+
+I also plan to use a map to highlight the regions where ChatGPT is not available. 
 
 ## The data
 
