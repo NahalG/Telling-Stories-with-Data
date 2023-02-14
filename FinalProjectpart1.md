@@ -28,5 +28,14 @@ As I work on this piece, I want to
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
+Given this is an upcoming topic, I have not been able to find compiled data sets yet have found websites and articles which have the data stored in the storyline. I have scraped off data from different online resources and built in my database on excel. The excel document has been stored in Github’s repository and is linked here.
+
+The data will be used to develop graphs, charts, timelines and bolster the storyline I am trying to pitch to the audience. 
+
+Some of the data sources are: 
+1.[CNBC](https://www.cnbc.com/2023/01/18/tech-layoffs-microsoft-amazon-meta-others-have-cut-more-than-60000.html)
+2.[Demand Sage]( https://www.demandsage.com/chatgpt-statistics/)
+3.[Business if Apps]( https://www.businessofapps.com/data/chatgpt-statistics/)
+
+# The Method & Medium 
