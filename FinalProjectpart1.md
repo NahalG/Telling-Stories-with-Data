@@ -20,10 +20,15 @@ As I work on this piece, I want to
 -	Bring in the consumers voice through primary research
 -	Call to action: Do we adapt our ways of life to the use of ChatGPT or wage a war against it?
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+The below image showcase the storyline for the pitch:
+![Storyline](Storyline.jpeg)
 
-Text here...
+## Initial sketches
+
+![Sketch1](Sketch1.png)
+
+
+![Sketch2](Sketch2.png)
 
 ## The data
 
