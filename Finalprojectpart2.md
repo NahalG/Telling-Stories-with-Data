@@ -116,9 +116,15 @@ I’d change the things I told you – map, reduce text to make it crisp and foc
 None.
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Having conducted three one-on-one interviews and one focus group in the class, I was able to gather some insightful feedback which is likely to help refine my project. The project theme about ChatGPT, Tech layoffs and the impact on education was well received and the interviewees found it very interesting since they had not interacted with this technology before. The interviewees found the aesthetics to be cool and in sync with the whole tech theme. Most of the graphs were easy to understand except for word cloud and the map. 
+
+The interviewees felt that too much emphasis was give on the background of ChatGPT and a little on the call to action. They felt that it needed to be given more emphasis. There was feedback about the font – would be better to increase the size or change it. I feel the feedback on the graphs was critical as they are an integral feature of the presentation. 
+
+### Aha Moments: 
+1.	Aesthetics are quite nice, really liked them. Btw did you use a template? Where is this presentation made?
+2.	It’s Cute – The title page.
+3.	The information is interesting, relevant, and trending these days. 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
