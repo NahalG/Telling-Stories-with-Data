@@ -10,7 +10,10 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+
+The target audience for this presentation is students, academic faculty, employers, and policymakers. In order to conduct user research, I first outlined who the wider target audience was. Once I was able to identify that, I narrowed it down by using soft contacts – individuals who were representative of the ideal target audience and were easy approachable. I reached out to them via email and text message and then conducted the interview over Zoom. 
+
+In today’s day and age, where we are more than ever dependent on technology to simplify our lives, it is integral for academia and policymakers to provide resources which enable individuals to live and grow with the advances in technology rather than fight against it and slow down.  
 
 Text here!
 
