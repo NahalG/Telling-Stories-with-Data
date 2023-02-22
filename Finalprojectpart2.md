@@ -127,10 +127,14 @@ The interviewees felt that too much emphasis was give on the background of ChatG
 3.	The information is interesting, relevant, and trending these days. 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
+As I work towards designing the final version of this project, I will make the following changes: 
+1.	Fix the word cloud and map charts.
+2.	Align font and color scheme through out the presentation. 
+3.	Shed more focus on the call to action by adding in elements/anecdotes.
+4.	Reduce text heavy slides.
+5.	Add logos on the dotted line graph. 
+  
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
