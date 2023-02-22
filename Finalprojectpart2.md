@@ -152,6 +152,7 @@ As I work towards designing the final version of this project, I will make the f
 3.	Shed more focus on the call to action by adding in elements/anecdotes.
 4.	Reduce text heavy slides.
 5.	Add logos on the dotted line graph. 
+6.	Rework the graphics for backgrounds and images.
   
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
