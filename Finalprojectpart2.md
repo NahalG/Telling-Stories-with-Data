@@ -1,11 +1,28 @@
-| [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1) | [Final Project II] (Finalprojectpart2) |
+| [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1) | [Final Project II] ([Finalprojectpart2)](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart2.html)|
 
 # Topic: The Human Race Against ChatGPT
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out direclty in Shorthand this week if you wish.
 
-Text here!
+Curious about future of education and workforce, I decided to work on the advent of ChatGPT and how it intersects with academia and employment. My initial concept of the narrative can be found [here](https://nahalg.github.io/Telling-Stories-with-Data/FinalProjectpart1). 
+
+As I delved deeper into the topic, I was able to find a plethora of resources to build and bolster my narrative. In order to wireframe the narrative, I decided to use shorthand as it not only helped sketch out the story but visualize graphs and aesthetics side by side, thereby serving as a mood board. Also, given I had a visual sample, it made it easier for me to conduct user research and gauge feedback as the interviewees were easily able to navigate through the storyline, data visualizations and the aesthetics of the presentation. Link to shorthand. 
+
+My storyline is as follows: 
+
+1.	What is ChatGPT – general information and who are the founders.
+2.	What can ChatGPT do? – Show a demo video (an element for user’s engagement with the presentation)
+3.	Highlight its growth – Use map to show regions where it doesn’t exist, Dotted line to show 100 million user reach, and line graph to show revenue projection. 
+4.	Rise of Tech Layoffs – Used newspaper headlines as screenshots to build the link between layoff and launch of ChatGPT, identified roles which will be eliminated due to ChatGPT using word-cloud graph, used a bar chart to show the lay-offs in the top 6 companies. 
+5.	Emphasize that ChatGPT is here to stay – Google Vs Microsoft war, Bain and Open AI’s recent partnership; all this indicates where the investment is flowing and what the future will be.
+6.	Call to Action: Given the current scenario teach students to be Tech smart and learn to live with it rather than against it, added a demo of Dall-E to show how images can be created (I created and used 4 images for this presentation).
+
+Data Visualizations:
+Map
+Bar Graphs
+Word cloud
+Dotted Line
+Line Graph 
 
 # User research 
 
@@ -14,8 +31,6 @@ Text here!
 The target audience for this presentation is students, academic faculty, employers, and policymakers. In order to conduct user research, I first outlined who the wider target audience was. Once I was able to identify that, I narrowed it down by using soft contacts – individuals who were representative of the ideal target audience and were easy approachable. I reached out to them via email and text message and then conducted the interview over Zoom. 
 
 In today’s day and age, where we are more than ever dependent on technology to simplify our lives, it is integral for academia and policymakers to provide resources which enable individuals to live and grow with the advances in technology rather than fight against it and slow down.  
-
-Text here!
 
 ## User Research: Bringing in the external voice
 
