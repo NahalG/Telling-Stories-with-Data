@@ -1,3 +1,6 @@
+| [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1) | [Final Project II](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart2.html)|
+
+
 # Visualising Government Debt
 
 This webpage will showcase governments debt to GDP ratios from 1995 to 2021 across countries using three different visualization techniques, namely bar chart, line graph and beeswarm (scatter). All data has been extracted from the [OECD website](https://data.oecd.org/gga/general-government-debt.htm). You will be able to review different stories from the same dataset.
