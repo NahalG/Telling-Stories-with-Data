@@ -23,4 +23,4 @@ This repository will consist of the following topics:
 
 ## [Final Project 2](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart2.html)
 
-## Final Project 3
+## Final Project 3 
