@@ -133,6 +133,21 @@ I’d change the things I told you – map, reduce text to make it crisp and foc
 10.	Do you have any other suggestions?
 None.
 
+```
+Focus Group: Consisted of two CMU students, 
+Age: Mid 20's
+```
+1. What Worked?
+The topic is very interesting, the use of news-clippings
+2. What didn't work?
+The subtitle of the presentation 
+3. What questions came up?
+Can use of ChatGPT be detected ? what are the ways of challenging that system?
+Ways that ChatGPT should not be used?
+4. What new inspiration arose?
+Maybe title page could have a pictire of a computer staring at a starting line, what are the new jobs which will be created.
+
+
 ## Interview findings
 
 Having conducted three one-on-one interviews and one focus group in the class, I was able to gather some insightful feedback which is likely to help refine my project. The project theme about ChatGPT, Tech layoffs and the impact on education was well received and the interviewees found it very interesting since they had not interacted with this technology before. The interviewees found the aesthetics to be cool and in sync with the whole tech theme. Most of the graphs were easy to understand except for word cloud and the map. 
