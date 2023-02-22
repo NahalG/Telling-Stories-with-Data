@@ -18,10 +18,10 @@ My storyline is as follows:
 6.	Call to Action: Given the current scenario teach students to be Tech smart and learn to live with it rather than against it, added a demo of Dall-E to show how images can be created (I created and used 4 images for this presentation).
 
 Data Visualizations:
-Map
-Bar Graphs
-Word cloud
-Dotted Line
+Map,
+Bar Graphs,
+Word cloud, 
+Dotted Line, and 
 Line Graph 
 
 # User research 
