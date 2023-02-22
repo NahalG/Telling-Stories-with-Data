@@ -65,7 +65,7 @@ Name: Student B,
 Age: Mid 20’s 
 ```
 
-‘It’s Cute – The cover page.”
+‘It’s Cute – The title page.'
 1.	Have you used ChatGPT?
 No.
 3.	What do you think is the narrative? 
