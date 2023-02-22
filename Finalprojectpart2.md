@@ -18,15 +18,16 @@ Text here!
 
 After developing a wireframe using shorthand, I reached out to three potential users of this data and requested them to critique the narrative and data visualization. The interview questions were:
 
-1.	What do you think about the narrative? 
-2.	Do the sections and call to action link?
-3.	Are the graphs easy or difficult for you to interpret?
-4.	What do you think about the aesthetics?
-5.	Who is the target audience for this?
-6.	What element(s) do you like/dislike?
-7.	Is there anything that surprises or confuses you?
-8.	What would you change or do differently?
-9.	Do you have any other suggestions?
+1.	Have you used ChatGPT?
+2.	What do you think about the narrative? 
+3.	Do the sections and call to action link?
+4.	Are the graphs easy or difficult for you to interpret?
+5.	What do you think about the aesthetics?
+6.	Who is the target audience for this?
+7.	What element(s) do you like/dislike?
+8.	Is there anything that surprises or confuses you?
+9.	What would you change or do differently?
+10.	Do you have any other suggestions?
 
 
 ### The Raw Interview Data is as follows:
@@ -37,7 +38,9 @@ Name: Student A,
 Age: Late 20’s 
 ```
 
-1.	What do you think about the narrative? 
+1.	Have you used ChatGPT?
+Nope!
+2.	What do you think about the narrative? 
 The narrative is about ChatGPT and how it affects the future of education. 
 2.	Do the sections and call to action link?
 I could draw the connection between the call to action, tech layoffs and the usage of the software.
@@ -63,7 +66,9 @@ Age: Mid 20’s
 ```
 
 ‘It’s Cute – The cover page.”
-1.	What do you think is the narrative? 
+1.	Have you used ChatGPT?
+No.
+3.	What do you think is the narrative? 
 This is about ChatGPT, how it came to be and what it can do. It also mentions the tech layoffs and links it to ChatGPT’s launch. It then goes onto connect it with the education sector.
 2.	Do the sections and call to action link?
 Yeah, I can see a link. I feel that students need to be trained in how to use the new technology and more so work around it rather than against it. 
@@ -89,7 +94,9 @@ Name: Professional A,
 Age: Late 20’s 
 ```
 
-1.	What do you think is the narrative?
+1. Have you used ChatGPT?
+No.
+3.	What do you think is the narrative?
 This is about ChatGPT and how it works. There is some mention about the education and ChatGPT towards the end. But recalling it after scrolling through it, I remember the overview about the ChatGPT.
 2.	Do the sections and call to action link?
 For me the introduction on ChatGPT was very detailed and the emphasis on the education linkage was very little.
@@ -107,8 +114,6 @@ The map confused me at the first glance. Had I not questioned you about it, I wo
 I’d change the things I told you – map, reduce text to make it crisp and focus more on education sector. 
 10.	Do you have any other suggestions?
 None.
-
-
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
