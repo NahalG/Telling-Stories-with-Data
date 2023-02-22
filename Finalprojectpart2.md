@@ -6,7 +6,7 @@
 
 Curious about future of education and workforce, I decided to work on the advent of ChatGPT and how it intersects with academia and employment. My initial concept of the narrative can be found [here](https://nahalg.github.io/Telling-Stories-with-Data/FinalProjectpart1). 
 
-As I delved deeper into the topic, I was able to find a plethora of resources to build and bolster my narrative. In order to wireframe the narrative, I decided to use shorthand as it not only helped sketch out the story but visualize graphs and aesthetics side by side, thereby serving as a mood board. Also, given I had a visual sample, it made it easier for me to conduct user research and gauge feedback as the interviewees were easily able to navigate through the storyline, data visualizations and the aesthetics of the presentation. Link to shorthand. 
+As I delved deeper into the topic, I was able to find a plethora of resources to build and bolster my narrative. In order to wireframe the narrative, I decided to use shorthand as it not only helped sketch out the story but visualize graphs and aesthetics side by side, thereby serving as a mood board. Also, given I had a visual sample, it made it easier for me to conduct user research and gauge feedback as the interviewees were easily able to navigate through the storyline, data visualizations and the aesthetics of the presentation. Link to [shorthand](https://preview.shorthand.com/C3Y2xR8s31TeE4YP). 
 
 My storyline is as follows: 
 
