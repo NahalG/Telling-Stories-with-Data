@@ -1,4 +1,4 @@
-| [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1) | [Final Project II](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart2.html)|
+| [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1) | [Final Project II](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart2.html) | [Final Project III](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart3.html) |
 
 
 # Visualising Government Debt
