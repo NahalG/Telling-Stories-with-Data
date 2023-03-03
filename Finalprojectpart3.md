@@ -47,4 +47,4 @@ The references for this project were as follows:
 [Reuters](https://www.reuters.com/technology/google-ai-chatbot-bard-offers-inaccurate-information-company-ad-2023-02-08/)
 
 [The New York Times](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html)
-
+ 
