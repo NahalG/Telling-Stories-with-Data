@@ -1,8 +1,8 @@
 | [Telling-Stories-with-Data](https://nahalg.github.io/Telling-Stories-with-Data/) | [Visualizing Government Debt](https://nahalg.github.io/Telling-Stories-with-Data/Visualisinggovernmentdebt.html) | [Critique by Design](CritiqueByDesign) | [Final Project I](FinalProjectpart1) | [Final Project II](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart2.html) | [Final Project III](https://nahalg.github.io/Telling-Stories-with-Data/Finalprojectpart3.html) |
 
-# Final Project Part 3
+# Transforming Education with CHatGPT
 
-# The final data story
+## The Final Story 
 
 The launch of ChatGPT in November 2022 took the world by storm. ChatGPT revolutionized the way we interacted with machines and how we approached different aspects of personal and professional life. However, this groundbreaking technology came amidst a wave of tech layoffs which shook the industry and leaving many wonder whether the future of jobs. As a final year graduate student, I wondered what the future of work will be and if our skills would really be required. My curiosity pushed me to explore the realm of ChatGPT and use this topic as the thesis of my final project for a course (Telling Stories with Data) at Heinz College. 
 
@@ -17,21 +17,15 @@ The third part of the project was the most critical. Based upon the feedback rec
 My final project can be found here.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+When I started working on this project, I thought my direct target audience will be my peers who I will be presenting to. Therefore, I sketched out the narrative according to that. When I developed the wireframe and conducted user research, the respondent said that the target audience could be general public. It was then I reexamined who my target audience could be and how the narrative or call to action would vary accordingly. The target audience for my final story were students, academia, policymakers and the general public. 
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+# Final thoughts
+> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 Text here!
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 Text here!
