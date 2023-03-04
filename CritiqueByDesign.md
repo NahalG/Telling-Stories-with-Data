@@ -42,9 +42,6 @@ After sketching the visualization, I reached out to two potential users of this 
 7.	What would you change or do differently?
 8.	Do you have any other suggestions?
 
-**Summary of Critique:** 
-The chart type is easy to interpret and analyse and allows the reader to understand the trend. However, the chart title needs to be changed as it is very report oriented and does not narrate or emphasize the storyline. The use of color needs to be controlled to avoid distraction and the rainbow effect. There was a confusion about the Y-axis label as to what it meant - this was something I didnot see coming therefore was a good opportunity to clarify in the final design.
-
 ### Raw Interview Data:
 ```
 Interview #1: 
@@ -106,6 +103,9 @@ The scale for the year jumps from 5 year gap to a 2 year gap towards the end, ti
 What does the y-axis label mean, why is Africa’s data skewed, and is there anything you are trying to highlight or emphasize through this chart.
 4.	What new inspirations arose?
 This could be maybe shown on a map and title should narrate the story. 
+
+**Summary of Critique:** 
+The chart type is easy to interpret and analyse and allows the reader to understand the trend. However, the chart title needs to be changed as it is very report oriented and does not narrate or emphasize the storyline. The use of color needs to be controlled to avoid distraction and the rainbow effect. There was a confusion about the Y-axis label as to what it meant - this was something I didnot see coming therefore was a good opportunity to clarify in the final design.
 
 
 ## Maternal Mortality Ratio - A New Perspective 
