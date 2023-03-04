@@ -8,7 +8,7 @@ If I were to pitch my final narrative in a minute’s time, it would be:
 
 ‘Hi everyone! Today I will be talking about ChatGPT and the need to educate our students about it. ChatGPT was launched in November 2022. Despite being banned in seven countries, it was able to reach a 100 million users in two months. ChatGPT has taken the world by storm. Many speculate that there is a correlation between the tech layoffs and the launch of ChatGPT, but it is relatively soon to comment on that. However, there have been an influx of investment in AI by these tech companies which mean new job roles (a sigh of relief for graduating students) BUT these jobs will require AI skills. Therefore, it is the responsibility of academia to help students develop these future-fit skills by teaching them rather than banning them. ChatGPT can revolutionize the way we approach education. In order to unleash the power of learning through AI, log onto the platform and explore.’
 
-**The story on Transformaing Education with ChatGPT can be found [here](https://carnegiemellon.shorthandstories.com/transformingeducationwithchatgpt/)**. 
+**The story on Transforming Education with ChatGPT can be found [here](https://carnegiemellon.shorthandstories.com/transformingeducationwithchatgpt/)**. 
 
 ## The Narrative
 
